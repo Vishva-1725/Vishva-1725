@@ -1,7 +1,7 @@
 <div align="center">
   
 # 👋 Hi, I'm Vishva
-### 🚀 Frontend Developer | Digital Marketing Background
+### 🚀 Frontend Developer | Full Stack Developer
 
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-5e56e0)](https://vishva-1725.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/👔-LinkedIn-0A66C2)](https://www.linkedin.com/in/vishva-s-3b209b291/)
